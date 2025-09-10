@@ -6,6 +6,6 @@ public class Main {
     }
 
     private static String b() {
-        return "world!";
+        return "new world!";
     }
 }
